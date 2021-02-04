@@ -1,9 +1,9 @@
 # docker-laravel 🐳
 
-![License](https://img.shields.io/github/license/ucan-lab/docker-laravel?color=f05340)
-![Stars](https://img.shields.io/github/stars/ucan-lab/docker-laravel?color=f05340)
-![Issues](https://img.shields.io/github/issues/ucan-lab/docker-laravel?color=f05340)
-![Forks](https://img.shields.io/github/forks/ucan-lab/docker-laravel?color=f05340)
+![License] (https://img.shields.io/github/license/ucan-lab/docker-laravel?color=f05340)
+![Stars] (https://img.shields.io/github/stars/ucan-lab/docker-laravel?color=f05340)
+![Issues] (https://img.shields.io/github/issues/ucan-lab/docker-laravel?color=f05340)
+![Forks] (https://img.shields.io/github/forks/ucan-lab/docker-laravel?color=f05340)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ Read this [Wiki](https://github.com/ucan-lab/docker-laravel/wiki).
 └── db
 ```
 
-### app container
+### app container 
 
 - Base image
   - [php](https://hub.docker.com/_/php):8.0-fpm-buster
